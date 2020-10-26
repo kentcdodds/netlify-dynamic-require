@@ -1,0 +1,20 @@
+{
+  "name": "netlify-dynamic-require",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kent C. Dodds <me@kentcdodds.com> (https://kentcdodds.com/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kentcdodds/netlify-dynamic-require.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kentcdodds/netlify-dynamic-require/issues"
+  },
+  "homepage": "https://github.com/kentcdodds/netlify-dynamic-require#readme",
+  "description": ""
+}
