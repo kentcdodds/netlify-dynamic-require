@@ -1,4 +1,8 @@
-const now = require('./dynamic/thing')
+const thing = 'thing'
+const dynamicRequire = `./dynamic/${thing}`
+
+const now = require(dynamicRequire)
+
 exports.handler = async event => {
   const subject = event.queryStringParameters.name || 'World'
   return {
